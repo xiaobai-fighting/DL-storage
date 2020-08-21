@@ -1,6 +1,6 @@
 生物 + 深度学习 方案
 
-转载于：https://www.zhihu.com/question/60067846
+[机器学习&深度学习能解决哪些医学问题--知乎](https://www.zhihu.com/question/60067846)
 
 病理数据分析，谷歌有一个ar加深度网络，实时分析
 

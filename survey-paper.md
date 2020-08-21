@@ -1,7 +1,10 @@
-2020 year
+# 2020 year
 
+[Deep Weakly-Supervised Learning Methods for Classification and Localization in Histology Images: A Survey](https://arxiv.org/pdf/1909.03354.pdf)
 
-2019 year
+github:[code](https://github.com/jeromerony/survey_wsl_histology)
+
+# 2019 year
 
 1、A guide to deep learning in healthcare（医疗深度学习技术指南）
 
